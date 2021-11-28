@@ -1,0 +1,3 @@
+/home/wildbartty/code/projects/gentoo_dependency_sizes/CMakeFiles/rebuild_cache.dir
+/home/wildbartty/code/projects/gentoo_dependency_sizes/CMakeFiles/edit_cache.dir
+/home/wildbartty/code/projects/gentoo_dependency_sizes/CMakeFiles/main.dir
